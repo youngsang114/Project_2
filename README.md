@@ -1,4 +1,4 @@
-![image](https://github.com/youngsang114/Project_2/assets/127286621/580e2bef-1dbe-49ad-a2fe-5fb38f0e7ef2)# Project_2
+# Project_2
 ---
 # **"빅데이터를 활용한 중소형 외감기업 부실 예측 및 부실지수 제언"**
 <br>
